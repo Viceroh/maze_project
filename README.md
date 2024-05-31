@@ -1,24 +1,3 @@
-
-Navigation Menu
-
-Code
-Issues
-Pull requests
-Breadcrumbsalx-maze_project
-/README.md
-Latest commit
-AyomideA-S
-AyomideA-S
-last year
-History
-98 lines (60 loc) · 3.94 KB
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
 alx-maze_project
 This is the alternative 'Maze project' for the 'Research & Project approval (Part 1)' project in the ALX Software Engineering program.
 
